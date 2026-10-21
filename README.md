@@ -1,2 +1,2 @@
 # C__Slider
-Content slider example for clients site
+Content slider example for client's site
